@@ -1,16 +1,10 @@
 <h1 align="center">
-    <img alt="Proffy" src=".github/logo.svg" height="100px" />
+    <img alt="Proffy" src="https://github.com/bryancury3r/Proffy-s/blob/main/assets/logo.svg" height="100px" />
     <br>Next Level Week #2<br/>
     Node.js | ReactJS | React Native
 </h1>
 
-<p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/HigorSnt/proffy?style=flat-square">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/HigorSnt/proffy?style=flat-square">
-  <img alt="GitHub" src="https://img.shields.io/github/license/HigorSnt/proffy?style=flat-square"> 
-  <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1?style=flat-square"><br/>
-  <a href="https://insomnia.rest/run/?label=Proffy&uri=https%3A%2F%2Fraw.githubusercontent.com%2FHigorSnt%2Fproffy%2Fmaster%2F.github%2FInsomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
-</p>
+
 <p align="center">
   <a href="#bookmark-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -19,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img alt="design do projeto" width="650px" src="./.github/design.png" />
+  <img alt="design do projeto" width="650px" src="https://github.com/bryancury3r/Proffy-s/blob/main/assets/21ba6d00-d815-11ea-89e7-b32b8109f814.png" />
 <p>
 
 ## :bookmark: Sobre
@@ -52,14 +46,14 @@ Essa aplicação foi realizada durante a Next **Level Week #2**, projeto da [Roc
 1. Faça um clone do repositório:
 
 ```sh
-  $ git clone https://github.com/HigorSnt/proffy.git
+  $ git clone https://github.com/bryancury3r/Proffy-s
 ```
 
 2. Executando a Aplicação:
 
 ```sh
   # API
-  $ cd server
+  $ cd nlw2
   # Instalando as dependências do projeto.
   $ yarn # ou npm install
   # Configurando o banco de dados e criando as tabelas.
@@ -87,6 +81,13 @@ Essa aplicação foi realizada durante a Next **Level Week #2**, projeto da [Roc
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+    
+<p align="center">
+  
+  [![NPM](https://img.shields.io/npm/l/react)](https://github.com/bryancury3r/Proffy-s/blob/main/LICENSE) 
+  <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1?style=flat-square"><br/>
+  <img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia">
+</p>
 
 ---
 <sup>Projeto desenvolvido com a tutoria de [Diego Fernandes](https://github.com/diego3g), da [Rocketseat](rocketseat.com.br).</sup>
